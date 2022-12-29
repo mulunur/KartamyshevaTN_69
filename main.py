@@ -23,4 +23,4 @@ for patch in sierpinski(
 
 plt.show()
 
-#изменения
+# изменения
