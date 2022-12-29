@@ -22,3 +22,5 @@ for patch in sierpinski(
     plt.gca().add_patch(patch)
 
 plt.show()
+
+#изменения
