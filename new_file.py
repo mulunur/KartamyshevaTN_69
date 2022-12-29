@@ -5,3 +5,5 @@ def function():
 #fork
 
 #pull req for master
+def function2():
+    return 2+2
